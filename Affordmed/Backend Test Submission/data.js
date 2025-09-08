@@ -1,2 +1,0 @@
-urls = {}
-module.exports = urls;
