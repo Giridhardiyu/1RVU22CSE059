@@ -1,0 +1,2 @@
+urls = {}
+module.exports = urls;
